@@ -16,4 +16,4 @@
 //});
 
 Route::get('/', ['as' => 'home-index', 'uses' => 'HomeController@index']);
-Route::get('home/google', ['as' => 'home-google', 'uses' => 'HomeController@google']);
+Route::get('map/google', ['as' => 'map-google', 'uses' => 'MapController@google']);
