@@ -16,4 +16,5 @@
 //});
 
 Route::get('/', ['as' => 'home-index', 'uses' => 'HomeController@index']);
+Route::get('map/esri', ['as' => 'map-esri', 'uses' => 'MapController@esri']);
 Route::get('map/google', ['as' => 'map-google', 'uses' => 'MapController@google']);
