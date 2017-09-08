@@ -4,7 +4,7 @@
 
 /* Config Esri */
 var _config = {
-  baseUrl: 'esri.darknamer.com/3.16/'
+  baseUrl: 'darknamer-spg.ddns.net/esri-sdk/3.16'
 };
 var dojoConfig = {
   has: {

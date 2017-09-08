@@ -6,8 +6,7 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
 
-  <link rel="stylesheet" href="http://esri.darknamer.com/3.16/esri/css/esri.css">
-  <!--<link rel="stylesheet" href="http://localhost/esri/3.16/esri/css/esri.css">-->
+  <link rel="stylesheet" href="http://darknamer-spg.ddns.net/esri-sdk/3.16/esri/css/esri.css">
 
   <style>
     html, body, #mapDiv {
