@@ -19,7 +19,7 @@
 
   <script type="text/javascript" src="<?= url('script/global.js') ?>"></script>
   <!--<script type="text/javascript" src="http://localhost/esri/3.16/init.js"></script>-->
-  <script type="text/javascript" src="http://ec2.darknamer.com/esri-sdk/3.16/init.js"></script>
+  <script type="text/javascript" src="http://darknamer-spg.ddns.net/esri-sdk/3.16/init.js"></script>
   <script type="text/javascript" src="<?= url('script/app.js') ?>"></script>
 
 </head>
